@@ -1,4 +1,4 @@
-Privacy Policy for FocusNexus
+## Privacy Policy for FocusNexus
 Effective Date: Feb 15, 2026 Contact: broapps.team@gmail.com
 
 FocusNexus app helps you create and track medications and care items.
