@@ -38,3 +38,13 @@ No cloud sync.
 No overwhelm.
 
 Just clarity.
+
+---
+
+## Support
+Need help or have feedback? Email us at [broapps.team@gmail.com](mailto:broapps.team@gmail.com)
+
+---
+
+## Policies
+Privacy Policy – [https://broapps-team.github.io/focusnexus/privacy](https://broapps-team.github.io/focusnexus/privacy)
