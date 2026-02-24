@@ -1,50 +1,48 @@
-# FocusNexus
+### WiseSense — Habit Awareness
 
-### Track your focus. See your patterns. Improve with clarity.
+WiseSense helps you observe your habits with clarity — not judgment.
 
-FocusNexus is a lightweight focus tracking app designed to help you become more aware of how and when you focus best. No timers. No complicated productivity systems. Just simple session-based tracking and meaningful insights.
+Log events in seconds, understand when patterns happen most often, and work toward clean days, strong weeks, and focused months — all while keeping your data completely private.
 
-### How It Works
+No accounts. No cloud. No tracking.
 
-Log a focus session in seconds:
-• Choose a session type (Meeting, Reading, Movie, or Custom)
-• Rate how focused you were
-• Optionally note what distracted you
+🔹 Fast, Low-Friction Logging
 
-That’s it.
+Log a habit in under 10 seconds:
+• Select your habit
+• Add optional context or emotion triggers
+• Save instantly
 
-Over time, FocusNexus turns your sessions into clear insights.
+Your event is timestamped automatically.
 
-### See Your Focus Clearly
+🔹 Discover Patterns
 
-• Today’s Focus Score – Know how focused your day has been
-• Focused Streaks – Track consecutive fully focused sessions
-• Weekly & Monthly Scores – Understand long-term trends
-• Focus by Session Type – See where you perform best
-• Top Distractions – Identify recurring focus blockers
+See what’s happening over time:
+• Most common time of day
+• Most frequent trigger
+• Period-based summaries (Week, Month, Year, All)
 
-All data stays on your device. No account required.
+Simple, text-based insights — no clutter, no graphs.
 
-### Designed for Awareness
+🔹 Goals & Badges
 
-FocusNexus is built for people who:
-• Want to understand their focus habits
-• Prefer reflection over timers
-• Value privacy and simplicity
-• Want insights without pressure
+Set date-aware goals:
+• Clean Day
+• Week Strong
+• Month Mighty
 
-No push notifications.
-No cloud sync.
-No overwhelm.
+Earn badges when a period ends clean. Track streaks and progress without pressure.
 
-Just clarity.
+🔹 Privacy First
 
----
+• All data stays on your device
+• No backend
+• No cloud sync
+• No analytics tracking
 
-## Support
-Need help or have feedback? Email us at [broapps.team@gmail.com](mailto:broapps.team@gmail.com)
+Your habits are yours.
 
----
+WiseSense is designed for people who want awareness and structure without shame, streak obsession, or complicated analytics.
 
-## Policies
-Privacy Policy – [https://broapps-team.github.io/focusnexus/privacy](https://broapps-team.github.io/focusnexus/privacy)
+Clarity over guilt.
+Consistency over intensity.
