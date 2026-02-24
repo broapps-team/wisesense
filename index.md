@@ -48,7 +48,9 @@ Clarity over guilt.
 Consistency over intensity.
 
 #### Support
-Need help or have feedback? Email us at broapps.team@gmail.com
+Need help or have feedback? Email us at [broapps.team@gmail.com](mailto:broapps.team@gmail.com)
+
+---
 
 #### Policies
-Privacy Policy – https://broapps-team.github.io/wisesense/privacy
+Privacy Policy – [https://broapps-team.github.io/wisesense/privacy](https://broapps-team.github.io/wisesense/privacy)
